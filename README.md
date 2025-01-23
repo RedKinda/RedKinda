@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-[Tangle](https://tangle.chat/) will fix this
-
 [![wakatime](https://wakatime.com/badge/user/e17be31f-5767-4ad9-bdd0-245f72288298.svg)](https://wakatime.com/@e17be31f-5767-4ad9-bdd0-245f72288298)
+
+
+[Tangle](https://tangle.chat/) will fix this
