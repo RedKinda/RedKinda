@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RedKinda/RedKinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[Tangle](https://tangle.chat/) will fix this
+
+[![wakatime](https://wakatime.com/badge/user/e17be31f-5767-4ad9-bdd0-245f72288298.svg)](https://wakatime.com/@e17be31f-5767-4ad9-bdd0-245f72288298)
